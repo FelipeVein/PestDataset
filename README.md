@@ -8,13 +8,15 @@ Image Segmentation, Instance Segmentation and Object Dectection annotations.
 ## How to visualize the dataset:
 
 
-1- Open via.html 
+1- Download the repository
 
-2- Annotation -> Import Annotations (COCO Format)
+2- Open via.html 
 
-3- Open one of the .json files that is inside the data folder
+3- Annotation -> Import Annotations (COCO Format)
 
-4- Enjoy
+4- Open one of the .json files that is inside the data folder
+
+5- Enjoy
 
 
 
