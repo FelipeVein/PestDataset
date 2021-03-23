@@ -12,7 +12,7 @@ Image Segmentation, Instance Segmentation and Object Dectection annotations.
 
 2- Annotation -> Import Annotations (COCO Format)
 
-3- Open .json files inside data folder
+3- Open one of the .json files that is inside the data folder
 
 4- Enjoy
 
