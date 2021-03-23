@@ -10,13 +10,15 @@ Image Segmentation, Instance Segmentation and Object Dectection annotations.
 
 1- Download the repository
 
-2- Open via.html 
+2- Unzip
 
-3- Annotation -> Import Annotations (COCO Format)
+3- Open via.html 
 
-4- Open one of the .json files that is inside the data folder
+4- Annotation -> Import Annotations (COCO Format)
 
-5- Enjoy
+5- Open one of the .json files that is inside the data folder
+
+6- Enjoy
 
 
 
