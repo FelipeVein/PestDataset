@@ -18,7 +18,9 @@ Image Segmentation, Instance Segmentation and Object Dectection annotations.
 
 5- Open one of the .json files that is inside the data folder
 
-6- Enjoy
+6- In order to open another .json file, refresh via.html first
+
+7- Enjoy
 
 
 
